@@ -15,7 +15,7 @@ You must have rust and cargo installed on your system.
 `$ cd News-CLI`
 
 3. Add your api key to the environment file. (You can get your api key [here](https://newsapi.org/)) <br>
-`$ touch .env && echo "API_KEY='api_key'" >> .env`
+`$ touch .env && echo "API_KEY='api_key'" >> .env` <br>
 **Note: replace the `api_key` with your api key string**
 
 4. Build the project using cargo <br>
